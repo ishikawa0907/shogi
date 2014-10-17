@@ -21,6 +21,9 @@ print "</HEAD>\n";
 print "<BODY BGCOLOR='#FFFFFF' TEXT='#000000'>\n";
 print "<XMP>\n";
 
+#  これは pull テストです。
+
+
 #
 # wwwperl.cgi?引数1+引数2 で指定したコマンド引数を書き出します。
 #
