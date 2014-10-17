@@ -1,0 +1,4 @@
+shogi
+=====
+
+rating system
