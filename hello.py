@@ -7,6 +7,8 @@ f = open("data/user.data")
 lines = f.readlines()
 f.close()
 
+$name$ = Kohei Imatomi
+
 header = lines[0].split(',')
 for item in header:
 	print "[", item.rstrip(), "]",
